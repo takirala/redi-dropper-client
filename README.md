@@ -21,7 +21,7 @@ research teams at University of Florida and other universities.
 ## For Developers
 
 For more details on application development please navigate to the
-[Application README](app/README.md).
+[Application README](docs/README.md).
 
 
 For running the unit tests please navigate to the
@@ -61,7 +61,7 @@ By participating in this project you agree to abide by its terms.
 
 # Contributors
 
-The application was written by Andrei Sura with tremendous support, fedback
+The application was written by Andrei Sura with tremendous support, feedback
 and contributions from the entire
 [CTS-IT team](https://www.ctsi.ufl.edu/research/study-development/informatics-consulting/).
 
